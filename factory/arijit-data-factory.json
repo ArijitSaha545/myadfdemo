@@ -1,0 +1,9 @@
+{
+	"name": "arijit-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a93cd6f-cfbb-4a83-84df-a8ca623e02b9",
+		"tenantId": "27f85905-a41c-4622-abb3-e2983bd91769"
+	}
+}
